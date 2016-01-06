@@ -1,4 +1,3 @@
-# Overskrift
-Brødtekst
+# This is my first D8 theme
 
-og dette er en readme-fil
+Its only made to test out structure and consepts of Twig
