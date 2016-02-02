@@ -36,8 +36,14 @@
     {{ scripts }}
   </head>
   <body{{ attributes }}>
-    {{ page_top }}
-    {{ page }}
-    {{ page_bottom }}
+    <header>
+      {{ page_top }}
+    </header>
+    <section id="content">
+      {{ page }}
+    </section>
+    <footer>
+      {{ page_bottom }}
+    </footer>
   </body>
 </html>
