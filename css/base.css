@@ -1,0 +1,12 @@
+footer { 
+  outline: solid 1px red;
+  }
+header {
+  outline: solid 1px blue;
+}
+messages {
+  outline: solid 1px purple;
+}
+section {
+  outline: solid 1px #fff;
+}

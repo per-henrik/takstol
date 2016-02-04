@@ -1,10 +1,11 @@
 name: D8 Configtest Theme
 type: theme
-description: This is my first D8 theme Its only made to test out structure and consepts of Twig (with extra fluffiness).
+description: This is my first D8 theme Its only made to test out structure and consepts of Twig with extra fluffiness
 core: 8.x
 libraries:
-- d8_configtest_theme/global-styling
+  - d8_configtest_theme/global
 regions:
   header: Header
+  banner: Banner
   content: Content
   footer: Footer
