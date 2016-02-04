@@ -2,6 +2,9 @@ global:
   version: 1.x
   css:
     theme:
+      css/layout.css: {}
+      css/style.css: {}
+      css/colors.css: {}
       css/base.css: {}
   dependencies:
     - core/jquery
