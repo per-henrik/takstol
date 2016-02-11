@@ -1,12 +1,9 @@
-footer { 
-  outline: solid 1px red;
+#footer { 
+  outline: dotted 3px red;
   }
-header {
-  outline: solid 1px blue;
+#header {
+  outline: dotted 3px blue;
 }
-messages {
-  outline: solid 1px purple;
-}
-section {
-  outline: solid 1px #fff;
+#content {
+  outline: dotted 3px green;
 }
