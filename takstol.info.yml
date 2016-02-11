@@ -6,6 +6,5 @@ libraries:
   - takstol/global
 regions:
   header: Header
-  banner: Banner
   content: Content
   footer: Footer
